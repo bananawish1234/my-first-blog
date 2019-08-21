@@ -1,0 +1,29 @@
+[33mcommit 155f7084b0892cc68ef728ce3773b83e955edc01[m
+Author: machidori <yushi.machidori18@gmail.com>
+Date:   Thu Aug 22 00:38:14 2019 +0900
+
+    updated blog.urls
+
+[33mcommit 6cba84a1f2bad459905c106a666393d779366425[m
+Author: machidori <yushi.machidori18@gmail.com>
+Date:   Thu Aug 22 00:29:29 2019 +0900
+
+    Added view and template for detailed blog post as well as CSS for the site.
+
+[33mcommit 2f4b06db0d010a215a077731e0275c873ad96fa0[m
+Author: machidori <yushi.machidori18@gmail.com>
+Date:   Wed Aug 21 22:56:39 2019 +0900
+
+    Modified templates to display posts from database.
+
+[33mcommit 51841ae7ab4d0714bfb31776fd262119a4333e85[m
+Author: machidori <yushi.machidori18@gmail.com>
+Date:   Wed Aug 21 22:12:53 2019 +0900
+
+    Changed the HTML for the site.
+
+[33mcommit 64c3b437a7d192d2e5a0a311b1f6d3fb275e466c[m
+Author: machidori <yushi.machidori18@gmail.com>
+Date:   Wed Aug 21 21:08:59 2019 +0900
+
+    My Django Girls app, first commit
